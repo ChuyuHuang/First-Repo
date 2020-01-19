@@ -1,4 +1,4 @@
 # First-Repo
-first time using this
-not sure what I'm doing
+first time using this,
+not sure what I'm doing,
 uh...
